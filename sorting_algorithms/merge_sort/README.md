@@ -1,5 +1,7 @@
 # Merge Sort
 
+![Merge Sort](image.png)
+
 ## Algorithm
 
 1. Loop through the array and split it into two halves.
