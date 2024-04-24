@@ -21,7 +21,7 @@ class Solution(object):
 
         avg = (total - salary[max_idx] - salary[min_idx]) / (len(salary) - 2)
 
-        return round(avg, 5)
+        return avg
 
 
 if __name__ == "__main__":
